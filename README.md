@@ -2,9 +2,8 @@
 ODS Export sas table to execel with rotated column headers
     ODS Export sas table to execel with rotated column headers                                                                          
                                                                                                                                         
-    github                                                                                                                              
-    https://tinyurl.com/y2g5ngpe                                                                                                        
-    https://github.com/rogerjdeangelis/utl-ods-export-sas-table-to-execel-with-rotated-column-headers/tree/master                       
+    github                                                                                                                                                                                                                                  
+    https://github.com/rogerjdeangelis/utl-ods-export-sas-table-to-excel-with-rotated-column-headers                       
                                                                                                                                         
     SAS forums                                                                                                                          
     https://tinyurl.com/y5mnnv2r                                                                                                        
